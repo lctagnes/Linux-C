@@ -1,2 +1,2 @@
-# maizi
-some simple projecs for learning
+# Linux C
+some simple programs for Linux C learning
